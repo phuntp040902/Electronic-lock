@@ -1,10 +1,10 @@
-# Electronic-lock
-Khóa điện tử bảo mật sử dụng thẻ từ hoặc mật khẩu được nhập từ bàn phím, từ đó điều khiển đóng khóa cửa bằng module servo
-# Phần mềm được sử dụng trong project:
+# Description
+The electronic security lock uses either a RFID card or a password entered via a keyboard to control the door lock mechanism using a servo module.
+# Tools and files in project:
 1. Proteus
-  -  schematic btl.pdsprj: file schematic mô phỏng mạch nguyên lý
+  -  schematic btl.pdsprj:  schematic to stimulate
 2. Altium Designer
-  -  shcNhung.SchDoc: file thiết kế schematic của project
-  -  PCB1.PcbDoc: file vẽ mạch pcb của project
+  -  shcNhung.SchDoc:  schematic for pcb
+  -  PCB1.PcbDoc: pcb
 3. Arrduino IDE
-  -  
+
